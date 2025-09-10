@@ -1,0 +1,150 @@
+body{
+    background-size: cover;
+}
+
+
+header{
+    display: block;
+    
+
+
+
+}
+#img{
+    width: 7%;
+    margin-left: 30px;
+}
+
+
+
+ul {
+    position: relative;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+
+
+  li {
+    float: left;
+  }
+  
+
+
+
+
+  a {
+    display: block;
+    padding: 8px;
+    
+  }
+
+
+
+
+  li a {
+    
+        display: block;
+        color: rgb(22, 22, 22);
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+  }
+
+  li a:hover{
+
+    background-color: #6d6a6a;
+  }
+
+
+  .section1{
+    height: 400px;
+    width: 100%;
+    background-image: url(image/images.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+
+
+
+  
+  
+
+.container{
+    display: flex;
+    text-align: justify;
+    margin: 150px
+
+    
+}
+
+.box-1{
+display: block;
+margin-right: 50px;
+width: 600px;
+    
+ 
+  
+    
+}
+
+.box-2{
+    width: 600px;
+   
+    
+}
+img{
+    width: 600px;
+}
+
+
+.paragraph-style-1{
+    text-align: justify;
+}
+
+.box-contact{
+    margin-top: 100px;
+    margin-left: 900px;
+    margin-bottom: 200px;
+    margin-right: 200px;
+    width: 200px;
+    height: 150px;
+    padding: 50px;
+    border: 5px solid red;
+    background-color: rgba(155, 59, 62, 0.076);
+
+    
+    
+}
+
+.subject{
+    margin-bottom: 10px;
+    
+    
+}
+
+.mail{
+    margin-bottom: 10px;
+    
+}
+
+.message{
+    margin-bottom:10px; 
+}
+
+.submit{
+    float: left;
+    margin-right: 10px
+    
+    
+}
+
+
+
+input{
+    
+}
+nav{
+    margin-left: 1100px;
+}

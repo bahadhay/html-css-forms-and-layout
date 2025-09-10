@@ -1,0 +1,42 @@
+body{
+   background-color: rgba(211, 214, 213, 0.302);
+}
+fieldset{
+    border: dotted;
+    align-items: center;
+    border-color: goldenrod;
+    width: 350px;
+    border: 5%;
+    font-family: t;
+    
+}
+
+.box{
+    display: block;
+    justify-content: center;
+    margin: 90px auto;
+    height: 640px;
+    width: 400px;
+    padding: 20px 20px ;
+    background-size: 100%;
+    font-size: x-large;
+    background-color: #CCE7FF;
+    
+}
+
+legend{
+    color: rgba(224, 14, 14, 0.918);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+button{
+    
+    border-style:solid;
+    font-size: x-large;
+    margin-left: 60px;
+    padding: 5px auto;
+    
+    
+}
+
